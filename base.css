@@ -252,7 +252,7 @@ nav .logo.space{
 
     border-top: 1px solid rgba(0, 0, 0, 0.2);
     text-align: center;
-    background-color: #faa5a6;
+    background-color: #eb7134;
 }
 .row #column1,
 .row #column2,
@@ -261,6 +261,9 @@ nav .logo.space{
         width: 33.33%;
         padding: 40px 20px 40px 20px;
 
+}
+.row p{
+  font-size: 20px;
 }
 .column-title h2{
     margin: 1em 0em;
@@ -287,7 +290,9 @@ nav .logo.space{
   padding: 40px 20px 40px 20px;
 
 }
-
+.row1 p{
+  font-size: 20px;
+}
 /* Clear floats after the columns */
 .row1:after {
   content: "";
